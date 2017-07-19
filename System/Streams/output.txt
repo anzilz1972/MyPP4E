@@ -1,0 +1,8 @@
+Hello stream world
+Enter a number>8 squared is 64
+Enter a number>6 squared is 36
+Enter a number>11 squared is 121
+Enter a number>32 squared is 1024
+Enter a number>71 squared is 5041
+Enter a number>19 squared is 361
+Enter a number>Bye
