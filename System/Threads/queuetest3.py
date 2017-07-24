@@ -17,8 +17,8 @@ numproducers = 10                                       #生产线程数量
 nummessages  = 10                                       #每个生产者存入队列的消息的数量
 
 stdoutmutex = threading.Lock()                          #标准输出锁，避免打印错误
-dataQueue = queue.Queue()
-consumersExitflag = threading.Event()
+dataQueue = queue.Queue()                               #共享队列
+consumersExitflag = threading.Event()                   #消费者线程退出标志，由主线程设置
 
 def producer(id,dataqueue):
 	for msgnum in range(nummessages):
@@ -40,13 +40,14 @@ def consumer(id,dataqueue):
 			processcounts += 1
 			with stdoutmutex:
 				print('consumer {} got => {},total {} times!'.format(id,data,processcounts))
-		if consumersExitflag.isSet():break   #如果退出标志为真，则跳出循环
-	
+		if consumersExitflag.isSet():break   #如果消费者线程退出标志为真，则跳出循环
 	with stdoutmutex:
 		print('consumer {} Exit.'.format(id))
+
 			   
 if __name__ =='__main__':
-	consumersExitflag.clear()                     #初始化退出标志为False
+	consumersExitflag.clear()                     #初始化消费者线程退出标志为False
+	
 	for i in range(1,numconsumers+1):
 		thread = threading.Thread(target = consumer,args = (i,dataQueue))
 		thread.start()
@@ -59,7 +60,7 @@ if __name__ =='__main__':
 
 	for thread in waitfor:thread.join()            #等待生产者线程全部结束
 	while not dataQueue.empty():time.sleep(1)      #等待消费者线程处理完队列
-	consumersExitflag.set()                         #通知消费者线程全部退出
+	consumersExitflag.set()                        #设置消费者线程退出标志为真，通知消费者线程全部退出
 	print('Main thread exit.')
 
 
