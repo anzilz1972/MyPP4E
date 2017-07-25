@@ -1,0 +1,33 @@
+2017-07-25 16:22:14,860|__main__|20|INFO|Start print log
+		
+2017-07-25 16:22:14,860|__main__|30|WARNING|Something meybe fail.
+		
+2017-07-25 16:22:14,860|__main__|20|INFO|Finish.
+		
+2017-07-25 16:23:24,563|__main__|20|INFO
+		Start print log
+2017-07-25 16:23:24,563|__main__|30|WARNING
+		Something meybe fail.
+2017-07-25 16:23:24,563|__main__|20|INFO
+		Finish.
+Start print log|2017-07-25 16:33:59,455|__main__|20|INFO
+Something meybe fail.|2017-07-25 16:33:59,455|__main__|30|WARNING
+Finish.|2017-07-25 16:33:59,455|__main__|20|INFO
+Start print log
+		2017-07-25 16:34:55,157|__main__|20|INFO
+Something meybe fail.
+		2017-07-25 16:34:55,157|__main__|30|WARNING
+Finish.
+		2017-07-25 16:34:55,157|__main__|20|INFO
+Start print log		2017-07-25 16:58:50,578|__main__|20|INFO
+Something meybe fail.		2017-07-25 16:58:50,578|__main__|30|WARNING
+Finish.		2017-07-25 16:58:50,578|__main__|20|INFO
+Start print log				2017-07-25 16:59:27,280|__main__|20|INFO
+Something meybe fail.				2017-07-25 16:59:27,281|__main__|30|WARNING
+Finish.				2017-07-25 16:59:27,281|__main__|20|INFO
+Start print log				|2017-07-25 16:59:58,038|__main__|20|INFO
+Something meybe fail.				|2017-07-25 16:59:58,038|__main__|30|WARNING
+Finish.				|2017-07-25 16:59:58,038|__main__|20|INFO
+Start print log				|2017-07-25 17:05:40,350|__main__|20|INFO
+Something meybe fail.				|2017-07-25 17:05:40,350|__main__|30|WARNING
+Finish.				|2017-07-25 17:05:40,350|__main__|20|INFO
