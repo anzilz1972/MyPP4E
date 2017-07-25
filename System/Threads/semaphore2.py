@@ -11,10 +11,10 @@
 
 import threading,time,random
 
-numthreads = 5                                          #Producer、consumer线程数量
+numthreads = 20                                         #Producer、consumer线程数量
 semaphore = threading.Semaphore(0)                      #目前生产的items数量
 stdoutMutex = threading.Lock()				            #stdout流锁
-items = []
+items = []	                                            #存储生产的item
 
 def producer():
 	global items
@@ -22,9 +22,10 @@ def producer():
 	time.sleep(5)
 	item = random.randint(1,10000)
 	items.append(item)
-	semaphore.release()
 	with stdoutMutex:
 		print('{} produced item number {},exiting now.'.format(threadName,item))
+	semaphore.release()
+
 
 def consumer():
 	global items
@@ -44,7 +45,7 @@ if __name__ == '__main__':
 		threads.append(thread)
 
 	for i  in range(numthreads):
-		thread = threading.Thread(target = producer, name = 'producer{0:2}'.format(i+1))
+		thread = threading.Thread(target = producer, name = 'Producer{0:2}'.format(i+1))
 		thread.start()
 		threads.append(thread)
 
