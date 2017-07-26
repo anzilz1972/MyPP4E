@@ -48,6 +48,18 @@ def mypp4e_log(rotateLog = True, stderrLog = True):
 		logger.addHandler(console)
 	return logger
 
+class Mypp4e_log(logging.Logger):
+
+	def __init__(self,):
+
+
+
+
+
+
+
+
+
 if __name__ == '__main__':
 	logger = mypp4e_log()
 	for i in range(100000):
