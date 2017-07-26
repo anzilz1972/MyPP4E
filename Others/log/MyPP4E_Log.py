@@ -19,11 +19,11 @@ import logging,time
 from logging.handlers import RotatingFileHandler
 
 
-def mypp4e_log(rotateLog = True, consoleLog = True):
+def mypp4e_log(rotateLog = True, stderrLog = True):
 	logger = logging.Logger(name = 'MyPP4Elog')
 	logger.setLevel(logging.DEBUG)
 
-	fileFormatter = logging.Formatter('{asctime}|{name}|{pathname}|{levelno}|{levelname}|{message}',style = '{')
+	fileFormatter = logging.Formatter('{message}|{asctime}|{pathname}|{levelno}|{levelname}',style = '{')
 	if rotateLog:
 		#使用RotatingFileHandler,可以实现日志回滚
 		#创建RotatingFileHandler,设置log级别为WARNING，设置log格式其风格为'{'
@@ -40,13 +40,12 @@ def mypp4e_log(rotateLog = True, consoleLog = True):
 		logger.addHandler(handler)	                #可回滚log文件rlog.txt
 
 	#log也可以输出到stderr，设置log级别为DEBUG,设置log格式其风格为'{'
-	if consoleLog:
+	if stderrLog:
 		console = logging.StreamHandler()
 		console.setLevel(logging.DEBUG)
-		consoleformatter = logging.Formatter('{asctime}|{name}|{levelno}|{levelname}|{message}',style = '{')
+		consoleformatter = logging.Formatter('{message}|{asctime}|{pathname}|{levelno}|{levelname}',style = '{')
 		console.setFormatter(consoleformatter)	
 		logger.addHandler(console)
-	
 	return logger
 
 if __name__ == '__main__':
