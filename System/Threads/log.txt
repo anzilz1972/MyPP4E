@@ -206,3 +206,419 @@ Main thread exit.|2017-07-26 17:46:12,169|E:\ProgrammingPython\MyPP4E\System\Thr
 Consumer 1 Exit.|2017-07-26 17:46:12,200|E:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
 Consumer 2 Exit.|2017-07-26 17:46:12,200|E:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
 Consumer 0 Exit.|2017-07-26 17:46:12,200|E:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 1 Exit.|2017-07-26 20:10:08,946|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 3 Exit.|2017-07-26 20:10:08,947|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 2 Exit.|2017-07-26 20:10:08,947|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 5 Exit.|2017-07-26 20:10:08,948|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 0 Exit.|2017-07-26 20:10:08,948|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 7 Exit.|2017-07-26 20:10:08,948|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer15 Exit.|2017-07-26 20:10:08,948|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer11 Exit.|2017-07-26 20:10:08,948|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 4 Exit.|2017-07-26 20:10:08,948|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer24 Exit.|2017-07-26 20:10:08,949|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 8 Exit.|2017-07-26 20:10:08,949|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer16 Exit.|2017-07-26 20:10:08,949|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer12 Exit.|2017-07-26 20:10:08,949|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer18 Exit.|2017-07-26 20:10:08,949|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer20 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer19 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer25 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 9 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer14 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer21 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer17 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 6 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer22 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer10 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer13 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer23 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer26 Exit.|2017-07-26 20:10:08,950|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer42 Exit.|2017-07-26 20:10:08,952|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer47 Exit.|2017-07-26 20:10:08,952|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer46 Exit.|2017-07-26 20:10:08,952|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer39 Exit.|2017-07-26 20:10:08,952|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer41 Exit.|2017-07-26 20:10:08,953|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer37 Exit.|2017-07-26 20:10:08,953|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer43 Exit.|2017-07-26 20:10:08,953|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer31 Exit.|2017-07-26 20:10:08,953|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer35 Exit.|2017-07-26 20:10:08,953|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer33 Exit.|2017-07-26 20:10:08,953|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer40 Exit.|2017-07-26 20:10:08,953|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer28 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer29 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer44 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer36 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer27 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer38 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer45 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer30 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer56 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer48 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer34 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer32 Exit.|2017-07-26 20:10:08,954|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer51 Exit.|2017-07-26 20:10:08,955|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer59 Exit.|2017-07-26 20:10:08,955|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer61 Exit.|2017-07-26 20:10:08,955|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer64 Exit.|2017-07-26 20:10:08,955|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer55 Exit.|2017-07-26 20:10:08,955|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer62 Exit.|2017-07-26 20:10:08,955|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer78 Exit.|2017-07-26 20:10:08,956|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer50 Exit.|2017-07-26 20:10:08,956|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer54 Exit.|2017-07-26 20:10:08,956|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer63 Exit.|2017-07-26 20:10:08,956|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer49 Exit.|2017-07-26 20:10:08,956|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer68 Exit.|2017-07-26 20:10:08,956|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer58 Exit.|2017-07-26 20:10:08,956|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer65 Exit.|2017-07-26 20:10:08,956|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer52 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer82 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer85 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer99 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer53 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer66 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer73 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer74 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer79 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer69 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer67 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer60 Exit.|2017-07-26 20:10:08,957|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer76 Exit.|2017-07-26 20:10:08,958|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer72 Exit.|2017-07-26 20:10:08,958|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer57 Exit.|2017-07-26 20:10:08,958|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer71 Exit.|2017-07-26 20:10:08,958|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer70 Exit.|2017-07-26 20:10:08,958|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer83 Exit.|2017-07-26 20:10:08,958|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer93 Exit.|2017-07-26 20:10:08,958|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer88 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer96 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer84 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer95 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer75 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer81 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer91 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer86 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer94 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer90 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer89 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer80 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer98 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer77 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer87 Exit.|2017-07-26 20:10:08,959|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer92 Exit.|2017-07-26 20:10:08,960|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer97 Exit.|2017-07-26 20:10:08,961|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Main thread exit.|2017-07-26 20:10:15,969|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 0 Exit.|2017-07-26 20:10:15,984|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 1 Exit.|2017-07-26 20:10:15,985|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 2 Exit.|2017-07-26 20:10:15,985|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 3 Exit.|2017-07-26 21:51:35,434|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 0 Exit.|2017-07-26 21:51:35,435|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer10 Exit.|2017-07-26 21:51:35,436|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 1 Exit.|2017-07-26 21:51:35,436|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer17 Exit.|2017-07-26 21:51:35,437|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 9 Exit.|2017-07-26 21:51:35,437|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer16 Exit.|2017-07-26 21:51:35,437|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer14 Exit.|2017-07-26 21:51:35,437|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 2 Exit.|2017-07-26 21:51:35,437|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer18 Exit.|2017-07-26 21:51:35,438|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 5 Exit.|2017-07-26 21:51:35,438|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer22 Exit.|2017-07-26 21:51:35,438|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer13 Exit.|2017-07-26 21:51:35,438|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 6 Exit.|2017-07-26 21:51:35,438|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer11 Exit.|2017-07-26 21:51:35,438|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer24 Exit.|2017-07-26 21:51:35,439|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer23 Exit.|2017-07-26 21:51:35,439|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer31 Exit.|2017-07-26 21:51:35,439|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 8 Exit.|2017-07-26 21:51:35,439|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 7 Exit.|2017-07-26 21:51:35,439|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer15 Exit.|2017-07-26 21:51:35,439|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer30 Exit.|2017-07-26 21:51:35,440|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer28 Exit.|2017-07-26 21:51:35,440|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer20 Exit.|2017-07-26 21:51:35,440|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer19 Exit.|2017-07-26 21:51:35,440|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer26 Exit.|2017-07-26 21:51:35,440|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer25 Exit.|2017-07-26 21:51:35,440|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer32 Exit.|2017-07-26 21:51:35,440|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer47 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer36 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer48 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer55 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer45 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer44 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer21 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 4 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer12 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer27 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer29 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer33 Exit.|2017-07-26 21:51:35,441|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer43 Exit.|2017-07-26 21:51:35,442|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer40 Exit.|2017-07-26 21:51:35,442|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer34 Exit.|2017-07-26 21:51:35,442|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer46 Exit.|2017-07-26 21:51:35,442|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer39 Exit.|2017-07-26 21:51:35,442|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer35 Exit.|2017-07-26 21:51:35,443|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer52 Exit.|2017-07-26 21:51:35,443|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer41 Exit.|2017-07-26 21:51:35,443|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer63 Exit.|2017-07-26 21:51:35,443|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer53 Exit.|2017-07-26 21:51:35,443|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer38 Exit.|2017-07-26 21:51:35,443|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer42 Exit.|2017-07-26 21:51:35,443|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer37 Exit.|2017-07-26 21:51:35,443|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer49 Exit.|2017-07-26 21:51:35,444|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer54 Exit.|2017-07-26 21:51:35,444|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer51 Exit.|2017-07-26 21:51:35,444|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer56 Exit.|2017-07-26 21:51:35,444|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer57 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer59 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer64 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer71 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer61 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer76 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer62 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer65 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer50 Exit.|2017-07-26 21:51:35,445|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer93 Exit.|2017-07-26 21:51:35,446|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer66 Exit.|2017-07-26 21:51:35,446|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer70 Exit.|2017-07-26 21:51:35,446|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer68 Exit.|2017-07-26 21:51:35,446|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer60 Exit.|2017-07-26 21:51:35,446|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer74 Exit.|2017-07-26 21:51:35,447|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer81 Exit.|2017-07-26 21:51:35,447|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer67 Exit.|2017-07-26 21:51:35,447|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer58 Exit.|2017-07-26 21:51:35,447|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer94 Exit.|2017-07-26 21:51:35,447|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer75 Exit.|2017-07-26 21:51:35,447|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer73 Exit.|2017-07-26 21:51:35,447|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer77 Exit.|2017-07-26 21:51:35,448|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer83 Exit.|2017-07-26 21:51:35,448|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer80 Exit.|2017-07-26 21:51:35,448|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer95 Exit.|2017-07-26 21:51:35,448|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer97 Exit.|2017-07-26 21:51:35,448|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer85 Exit.|2017-07-26 21:51:35,448|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer96 Exit.|2017-07-26 21:51:35,449|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer88 Exit.|2017-07-26 21:51:35,449|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer72 Exit.|2017-07-26 21:51:35,449|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer86 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer82 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer69 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer87 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer89 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer78 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer99 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer79 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer84 Exit.|2017-07-26 21:51:35,450|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer91 Exit.|2017-07-26 21:51:35,451|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer98 Exit.|2017-07-26 21:51:35,451|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer90 Exit.|2017-07-26 21:51:35,452|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer92 Exit.|2017-07-26 21:51:35,452|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Main thread exit.|2017-07-26 21:51:42,458|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 2 Exit.|2017-07-26 21:51:42,468|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 1 Exit.|2017-07-26 21:51:42,469|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 0 Exit.|2017-07-26 21:51:42,469|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 0 Exit.|2017-07-26 21:54:34,195|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 5 Exit.|2017-07-26 21:54:34,198|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 6 Exit.|2017-07-26 21:54:34,199|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer11 Exit.|2017-07-26 21:54:34,199|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer15 Exit.|2017-07-26 21:54:34,199|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 9 Exit.|2017-07-26 21:54:34,199|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 7 Exit.|2017-07-26 21:54:34,199|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 3 Exit.|2017-07-26 21:54:34,199|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer13 Exit.|2017-07-26 21:54:34,199|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer12 Exit.|2017-07-26 21:54:34,200|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer14 Exit.|2017-07-26 21:54:34,200|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer24 Exit.|2017-07-26 21:54:34,200|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer28 Exit.|2017-07-26 21:54:34,200|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 1 Exit.|2017-07-26 21:54:34,200|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer26 Exit.|2017-07-26 21:54:34,200|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer32 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer18 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer22 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer20 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer25 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer17 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer19 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer21 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer31 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer29 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer33 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 2 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer10 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 4 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 8 Exit.|2017-07-26 21:54:34,201|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer44 Exit.|2017-07-26 21:54:34,202|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer46 Exit.|2017-07-26 21:54:34,202|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer23 Exit.|2017-07-26 21:54:34,202|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer27 Exit.|2017-07-26 21:54:34,202|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer16 Exit.|2017-07-26 21:54:34,202|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer30 Exit.|2017-07-26 21:54:34,202|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer39 Exit.|2017-07-26 21:54:34,202|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer37 Exit.|2017-07-26 21:54:34,202|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer42 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer48 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer38 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer35 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer40 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer55 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer45 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer41 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer47 Exit.|2017-07-26 21:54:34,203|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer57 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer53 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer36 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer67 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer71 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer50 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer52 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer34 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer49 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer66 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer43 Exit.|2017-07-26 21:54:34,204|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer51 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer61 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer56 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer65 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer59 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer68 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer58 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer69 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer60 Exit.|2017-07-26 21:54:34,205|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer79 Exit.|2017-07-26 21:54:34,206|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer62 Exit.|2017-07-26 21:54:34,206|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer78 Exit.|2017-07-26 21:54:34,206|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer74 Exit.|2017-07-26 21:54:34,206|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer70 Exit.|2017-07-26 21:54:34,206|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer64 Exit.|2017-07-26 21:54:34,206|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer63 Exit.|2017-07-26 21:54:34,207|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer54 Exit.|2017-07-26 21:54:34,207|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer83 Exit.|2017-07-26 21:54:34,207|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer85 Exit.|2017-07-26 21:54:34,207|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer89 Exit.|2017-07-26 21:54:34,207|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer80 Exit.|2017-07-26 21:54:34,207|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer95 Exit.|2017-07-26 21:54:34,208|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer93 Exit.|2017-07-26 21:54:34,208|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer92 Exit.|2017-07-26 21:54:34,208|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer94 Exit.|2017-07-26 21:54:34,208|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer81 Exit.|2017-07-26 21:54:34,208|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer86 Exit.|2017-07-26 21:54:34,208|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer75 Exit.|2017-07-26 21:54:34,209|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer98 Exit.|2017-07-26 21:54:34,209|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer84 Exit.|2017-07-26 21:54:34,209|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer96 Exit.|2017-07-26 21:54:34,209|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer97 Exit.|2017-07-26 21:54:34,209|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer82 Exit.|2017-07-26 21:54:34,209|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer88 Exit.|2017-07-26 21:54:34,209|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer87 Exit.|2017-07-26 21:54:34,209|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer76 Exit.|2017-07-26 21:54:34,210|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer77 Exit.|2017-07-26 21:54:34,210|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer73 Exit.|2017-07-26 21:54:34,210|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer72 Exit.|2017-07-26 21:54:34,210|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer90 Exit.|2017-07-26 21:54:34,210|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer91 Exit.|2017-07-26 21:54:34,210|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer99 Exit.|2017-07-26 21:54:34,211|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Main thread exit.|2017-07-26 21:54:41,218|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 2 Exit.|2017-07-26 21:54:41,219|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 1 Exit.|2017-07-26 21:54:41,220|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 0 Exit.|2017-07-26 21:54:41,223|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 0 Exit.|2017-07-26 22:00:35,694|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer14 Exit.|2017-07-26 22:00:35,698|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 3 Exit.|2017-07-26 22:00:35,698|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 1 Exit.|2017-07-26 22:00:35,698|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer12 Exit.|2017-07-26 22:00:35,698|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 6 Exit.|2017-07-26 22:00:35,698|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer13 Exit.|2017-07-26 22:00:35,698|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 4 Exit.|2017-07-26 22:00:35,698|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 5 Exit.|2017-07-26 22:00:35,698|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer21 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 9 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer16 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 7 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 2 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer10 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer 8 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer22 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer24 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer18 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer17 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer11 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer20 Exit.|2017-07-26 22:00:35,699|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer15 Exit.|2017-07-26 22:00:35,700|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer23 Exit.|2017-07-26 22:00:35,700|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer26 Exit.|2017-07-26 22:00:35,700|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer32 Exit.|2017-07-26 22:00:35,700|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer31 Exit.|2017-07-26 22:00:35,700|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer19 Exit.|2017-07-26 22:00:35,700|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer25 Exit.|2017-07-26 22:00:35,700|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer27 Exit.|2017-07-26 22:00:35,701|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer29 Exit.|2017-07-26 22:00:35,701|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer28 Exit.|2017-07-26 22:00:35,701|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer34 Exit.|2017-07-26 22:00:35,701|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer36 Exit.|2017-07-26 22:00:35,701|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer47 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer45 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer42 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer46 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer37 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer35 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer33 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer41 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer30 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer38 Exit.|2017-07-26 22:00:35,702|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer40 Exit.|2017-07-26 22:00:35,703|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer43 Exit.|2017-07-26 22:00:35,703|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer48 Exit.|2017-07-26 22:00:35,703|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer44 Exit.|2017-07-26 22:00:35,703|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer39 Exit.|2017-07-26 22:00:35,703|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer64 Exit.|2017-07-26 22:00:35,704|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer53 Exit.|2017-07-26 22:00:35,704|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer62 Exit.|2017-07-26 22:00:35,704|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer49 Exit.|2017-07-26 22:00:35,704|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer51 Exit.|2017-07-26 22:00:35,704|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer61 Exit.|2017-07-26 22:00:35,704|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer52 Exit.|2017-07-26 22:00:35,705|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer63 Exit.|2017-07-26 22:00:35,705|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer72 Exit.|2017-07-26 22:00:35,705|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer83 Exit.|2017-07-26 22:00:35,705|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer69 Exit.|2017-07-26 22:00:35,705|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer65 Exit.|2017-07-26 22:00:35,705|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer60 Exit.|2017-07-26 22:00:35,705|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer71 Exit.|2017-07-26 22:00:35,705|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer56 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer55 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer54 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer50 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer70 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer68 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer74 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer82 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer73 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer59 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer58 Exit.|2017-07-26 22:00:35,706|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer67 Exit.|2017-07-26 22:00:35,707|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer57 Exit.|2017-07-26 22:00:35,707|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer84 Exit.|2017-07-26 22:00:35,707|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer81 Exit.|2017-07-26 22:00:35,708|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer96 Exit.|2017-07-26 22:00:35,708|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer88 Exit.|2017-07-26 22:00:35,708|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer95 Exit.|2017-07-26 22:00:35,708|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer76 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer93 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer94 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer97 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer98 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer89 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer90 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer77 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer66 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer75 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer85 Exit.|2017-07-26 22:00:35,709|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer79 Exit.|2017-07-26 22:00:35,710|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer86 Exit.|2017-07-26 22:00:35,710|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer92 Exit.|2017-07-26 22:00:35,710|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer87 Exit.|2017-07-26 22:00:35,710|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer78 Exit.|2017-07-26 22:00:35,710|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer99 Exit.|2017-07-26 22:00:35,710|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer80 Exit.|2017-07-26 22:00:35,710|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Producer91 Exit.|2017-07-26 22:00:35,710|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Main thread exit.|2017-07-26 22:00:42,720|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 1 Exit.|2017-07-26 22:00:42,726|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 2 Exit.|2017-07-26 22:00:42,726|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Consumer 0 Exit.|2017-07-26 22:00:42,726|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING

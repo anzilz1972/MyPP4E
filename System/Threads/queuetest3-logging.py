@@ -18,8 +18,8 @@
 import threading,queue,time,sys
 
 sys.path.append('..\..\others\log')						#将log模块加入到系统目录中
-from MyPP4E_Log import mypp4e_log
-logger = mypp4e_log(rotateLog = False)					#get logger object
+from MyPP4E_Log import Mypp4elog
+logger = Mypp4elog()									#get logger object
 
 numconsumers = 3                                        #消费线程数量
 numproducers = 100                                      #生产线程数量

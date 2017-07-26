@@ -31,3 +31,93 @@ Finish.				|2017-07-25 16:59:58,038|__main__|20|INFO
 Start print log				|2017-07-25 17:05:40,350|__main__|20|INFO
 Something meybe fail.				|2017-07-25 17:05:40,350|__main__|30|WARNING
 Finish.				|2017-07-25 17:05:40,350|__main__|20|INFO
+Houston, we have a bit of a problem|2017-07-26 20:18:23,715|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:18:23,715|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:18:23,715|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 20:18:25,716|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:18:25,716|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:18:25,716|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 20:18:27,716|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:18:27,716|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:18:27,716|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 20:18:29,717|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:18:29,717|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:18:29,717|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 20:18:31,717|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:18:31,717|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:18:31,717|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 20:54:09,646|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:54:09,646|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:54:09,646|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 20:54:11,646|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:54:11,646|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:54:11,646|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 20:54:13,647|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:54:13,647|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:54:13,647|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 20:54:15,648|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 20:54:15,648|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 20:54:15,648|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:20:36,778|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:20:36,778|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:20:36,779|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:27:32,177|MyPP5Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:27:32,177|MyPP5Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:27:32,178|MyPP5Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:28:03,528|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:28:03,528|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:28:03,528|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a thorny problem|2017-07-26 21:29:12,991|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|10|DEBUG
+Houston, we have a interesting problem|2017-07-26 21:29:12,991|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|20|INFO
+Houston, we have a bit of a problem|2017-07-26 21:29:12,991|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:29:12,991|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:29:12,992|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a thorny problem|2017-07-26 21:29:20,497|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|10|DEBUG
+Houston, we have a interesting problem|2017-07-26 21:29:20,497|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|20|INFO
+Houston, we have a bit of a problem|2017-07-26 21:29:20,497|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:29:20,497|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:29:20,497|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a thorny problem|2017-07-26 21:29:21,567|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|10|DEBUG
+Houston, we have a interesting problem|2017-07-26 21:29:21,567|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|20|INFO
+Houston, we have a bit of a problem|2017-07-26 21:29:21,567|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:29:21,567|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:29:21,568|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a thorny problem|2017-07-26 21:29:22,195|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|10|DEBUG
+Houston, we have a interesting problem|2017-07-26 21:29:22,195|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|20|INFO
+Houston, we have a bit of a problem|2017-07-26 21:29:22,195|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:29:22,196|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:29:22,196|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a thorny problem|2017-07-26 21:29:22,656|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|10|DEBUG
+Houston, we have a interesting problem|2017-07-26 21:29:22,657|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|20|INFO
+Houston, we have a bit of a problem|2017-07-26 21:29:22,657|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:29:22,657|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:29:22,657|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a thorny problem|2017-07-26 21:31:43,220|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|10|DEBUG
+Houston, we have a interesting problem|2017-07-26 21:31:43,220|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|20|INFO
+Houston, we have a bit of a problem|2017-07-26 21:31:43,220|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:31:43,220|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:31:43,221|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:32:34,143|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:32:34,143|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:32:34,143|MyPP4Elog|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:33:59,426|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:33:59,426|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:33:59,426|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:46:36,654|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:46:36,654|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:46:36,654|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:48:28,038|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:48:28,038|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:48:28,038|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:49:41,152|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:49:41,152|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:49:41,152|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:54:23,033|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:54:23,033|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:54:23,033|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:55:33,855|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:55:33,855|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:55:33,856|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL
+Houston, we have a bit of a problem|2017-07-26 21:59:55,324|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|30|WARNING
+Houston, we have a major problem|2017-07-26 21:59:55,325|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|40|ERROR
+Houston, we have a major disaster|2017-07-26 21:59:55,325|D:\ProgrammingPython\MyPP4E\Others\log\MyPP4E_Log.py|50|CRITICAL

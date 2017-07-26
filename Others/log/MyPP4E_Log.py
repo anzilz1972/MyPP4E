@@ -18,57 +18,90 @@
 import logging,time
 from logging.handlers import RotatingFileHandler
 
-
-def mypp4e_log(rotateLog = True, stderrLog = True):
-	logger = logging.Logger(name = 'MyPP4Elog')
-	logger.setLevel(logging.DEBUG)
-
+"""
+内部函数定义，只供mypp4e_log()函数和class Mypp4elog使用
+"""
+#创建filehandler,以便将Log写入文件
+def _CreatFileHandler(rotateLog = False, fileLogLevel =logging.WARNING):
 	fileFormatter = logging.Formatter('{message}|{asctime}|{pathname}|{levelno}|{levelname}',style = '{')
 	if rotateLog:
-		#使用RotatingFileHandler,可以实现日志回滚
-		#创建RotatingFileHandler,设置log级别为WARNING，设置log格式其风格为'{'
-		#每个log文件大小为1M,上限100个文件
-		rHandler = RotatingFileHandler('rlog.txt', maxBytes = 1024*1024, backupCount = 100)
-		rHandler.setLevel(logging.WARNING)
-		rHandler.setFormatter(fileFormatter)
-		logger.addHandler(rHandler)					#正常log文件log.txt
+		#创建RotatingFileHandler,可以实现日志回滚;每个log文件大小为1M,上限100个文件
+		handler = RotatingFileHandler('rlog.txt', maxBytes = 1024*1024, backupCount = 100)
 	else:
-		#创建Filehandler,设置log级别为WARNING,设置log格式其风格为'{'
+		#创建Filehandler
 		handler = logging.FileHandler('log.txt')      
-		handler.setLevel(logging.WARNING)                
-		handler.setFormatter(fileFormatter)
-		logger.addHandler(handler)	                #可回滚log文件rlog.txt
+	handler.setFormatter(fileFormatter)
+	handler.setLevel(fileLogLevel)
+	return handler
 
-	#log也可以输出到stderr，设置log级别为DEBUG,设置log格式其风格为'{'
+#log输出到stderr
+def _CreatStderrHandler(stderrLogLevel = logging.DEBUG):
+	stderrformatter = logging.Formatter('{message}|{asctime}|{pathname}|{levelno}|{levelname}',style = '{')
+	handler = logging.StreamHandler()
+	handler.setFormatter(stderrformatter)	
+	handler.setLevel(stderrLogLevel)
+	return handler
+
+
+########################################################外部可调用函数和类###############################################
+"""
+   mypp4e_log():
+   1、class Mypp4elog()类的简化实现，更多参数采用默认值
+   2、调用此函数，返回一个logger对象；此logger对象默认产生file log，并输出stderr log
+"""
+def mypp4e_log(rotateLog = False, stderrLog = True):
+	logger = logging.Logger(name = 'MyPP4Elog')
+	logger.addHandler(_CreatFileHandler(rotateLog))
 	if stderrLog:
-		console = logging.StreamHandler()
-		console.setLevel(logging.DEBUG)
-		consoleformatter = logging.Formatter('{message}|{asctime}|{pathname}|{levelno}|{levelname}',style = '{')
-		console.setFormatter(consoleformatter)	
-		logger.addHandler(console)
+		logger.addHandler(_CreatStderrHandler())
 	return logger
 
-class Mypp4e_log(logging.Logger):
 
-	def __init__(self,):
+"""
+   class Mypp4elog:提供更多的可选参数对logger进行初始化
+"""
+class Mypp4elog(logging.Logger):
+	"""
+	__init__() Params:
+	
+	name:			logger默认名称为"MyPP4Elog"
+	rotateLog:		确定文件日志是common file Log还是rotate fiel Log，默认为普通文件日志
+	fileLogLevel:	默认为WARNING级别，包括rotateLog									
+	stderrLog:		默认需要stderr log，向stderr输出
+	stderrLogLevel：默认为DEBUG级别
+	"""
+	def __init__(self, name = 'MyPP4Elog', rotateLog = False, fileLogLevel =logging.WARNING, stderrLog = True, stderrLogLevel = logging.DEBUG):
+		
+		logging.Logger.__init__(self,name)
 
+		#将文件handler添加到此logger
+		self.addHandler(_CreatFileHandler(rotateLog,fileLogLevel))						
+		
 
-
-
-
-
+		#如果需要stderrLog,将StderrHandler添加到此logger 
+		if stderrLog:
+			self.addHandler(_CreatStderrHandler(stderrLogLevel))	                
 
 
 
 if __name__ == '__main__':
+	"""
 	logger = mypp4e_log()
-	for i in range(100000):
-		logger.debug('Houston, we have a %s', 'thorny problem')
-		logger.info('Houston, we have a %s', 'interesting problem')
-		logger.warning('Houston, we have a %s', 'bit of a problem')
-		logger.error('Houston, we have a %s', 'major problem')
-		logger.critical('Houston, we have a %s', 'major disaster')
-		time.sleep(2)
+	logger.debug('Houston, we have a %s', 'thorny problem')
+	logger.info('Houston, we have a %s', 'interesting problem')
+	logger.warning('Houston, we have a %s', 'bit of a problem')
+	logger.error('Houston, we have a %s', 'major problem')
+	logger.critical('Houston, we have a %s', 'major disaster')
+
+	"""
+	logger = Mypp4elog()
+	logger.debug('Houston, we have a %s', 'thorny problem')
+	logger.info('Houston, we have a %s', 'interesting problem')
+	logger.warning('Houston, we have a %s', 'bit of a problem')
+	logger.error('Houston, we have a %s', 'major problem')
+	logger.critical('Houston, we have a %s', 'major disaster')
+	print(logger.name)
+
 
 
 
