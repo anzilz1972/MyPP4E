@@ -622,3 +622,18 @@ Main thread exit.|2017-07-26 22:00:42,720|D:\ProgrammingPython\MyPP4E\System\Thr
 Consumer 1 Exit.|2017-07-26 22:00:42,726|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
 Consumer 2 Exit.|2017-07-26 22:00:42,726|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
 Consumer 0 Exit.|2017-07-26 22:00:42,726|D:\ProgrammingPython\MyPP4E\System\Threads\queuetest3-logging.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 11:12:28,264|thread-barrier-sync1.py|30|WARNING
+Thread-4 wait barrier timeout!|2017-07-27 11:12:28,264|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 11:12:28,264|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 11:12:28,264|thread-barrier-sync1.py|30|WARNING
+Thread-3 wait barrier timeout!|2017-07-27 11:12:28,264|thread-barrier-sync1.py|30|WARNING
+Thread-3 wait barrier timeout!|2017-07-27 11:36:45,212|thread-barrier-sync1.py|30|WARNING
+Thread-1 wait barrier timeout!|2017-07-27 11:36:45,212|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 11:36:45,212|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 11:36:45,212|thread-barrier-sync1.py|30|WARNING
+Thread-6 wait barrier timeout!|2017-07-27 11:36:45,212|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|30|WARNING
