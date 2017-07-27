@@ -637,3 +637,155 @@ Thread- 7 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|
 Thread- 6 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|30|WARNING
 Thread-14 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|30|WARNING
 Thread- 3 wait barrier timeout!|2017-07-27 11:42:03,749|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:10:44,231|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread-13 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:10:44,232|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:10:44,233|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:10:44,233|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:10:44,233|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:10:44,233|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:10:47,259|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:10:47,259|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:10:47,259|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:10:48,260|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:10:49,262|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:10:51,266|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:10:53,268|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:10:54,271|thread-barrier-sync1.py|30|WARNING
+Thread-13 wait barrier timeout!|2017-07-27 14:10:55,249|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:10:56,251|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:10:57,253|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:10:57,274|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:10:58,255|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:10:59,255|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:11:01,250|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:11:01,279|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:11:01,279|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:11:02,280|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:11:03,260|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:11:03,260|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:11:03,260|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:11:03,281|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:11:03,281|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:11:04,262|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:11:04,262|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:11:04,263|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:11:06,266|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:11:06,266|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:11:06,287|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:11:07,263|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:11:07,263|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:11:08,267|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:11:08,267|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:11:08,289|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:11:10,267|thread-barrier-sync1.py|30|WARNING
+Thread-13 wait barrier timeout!|2017-07-27 14:11:11,255|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:11:11,272|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:11:11,293|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:11:13,297|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:11:13,297|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:11:15,301|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:11:17,265|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:11:17,265|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:11:18,283|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:11:19,269|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:11:19,307|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:11:21,309|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:11:22,273|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:11:22,273|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:11:22,289|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:11:23,274|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:11:24,313|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:11:25,274|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:11:25,274|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:11:25,274|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:11:25,274|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:11:25,314|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:11:26,277|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:11:26,277|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:11:27,279|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:11:27,316|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:11:27,316|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:11:29,280|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:11:29,318|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:11:30,281|thread-barrier-sync1.py|30|WARNING
+Thread-13 wait barrier timeout!|2017-07-27 14:11:31,267|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:11:31,282|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:11:31,320|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:11:32,299|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:11:32,321|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:11:34,286|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:11:34,302|thread-barrier-sync1.py|30|WARNING
+Thread-13 wait barrier timeout!|2017-07-27 14:11:35,273|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:11:36,291|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:11:36,291|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:11:36,291|thread-barrier-sync1.py|30|WARNING
+Thread-13 wait barrier timeout!|2017-07-27 14:11:37,276|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:11:37,292|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:11:38,294|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:11:38,331|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:11:38,331|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:11:39,280|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:11:40,300|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:11:40,315|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:11:41,282|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:11:41,335|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:11:44,307|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:11:44,307|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:11:45,290|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:11:45,290|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:11:46,323|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:11:46,345|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:11:47,325|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:11:49,297|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:11:50,298|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:11:51,302|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:11:52,302|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:11:53,283|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:11:53,291|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:11:53,307|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:11:53,358|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:11:54,303|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:11:55,293|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:11:55,309|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:11:55,309|thread-barrier-sync1.py|30|WARNING
+Thread-13 wait barrier timeout!|2017-07-27 14:11:57,281|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:11:57,312|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:11:57,328|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:11:58,345|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:11:59,298|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:11:59,314|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:11:59,346|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:12:00,319|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:12:00,319|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:12:01,319|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:12:04,310|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:12:04,358|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:12:05,297|thread-barrier-sync1.py|30|WARNING
+Thread-10 wait barrier timeout!|2017-07-27 14:12:05,328|thread-barrier-sync1.py|30|WARNING
+Thread- 3 wait barrier timeout!|2017-07-27 14:12:05,328|thread-barrier-sync1.py|30|WARNING
+Thread- 8 wait barrier timeout!|2017-07-27 14:12:06,315|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:12:07,316|thread-barrier-sync1.py|30|WARNING
+Thread- 2 wait barrier timeout!|2017-07-27 14:12:08,318|thread-barrier-sync1.py|30|WARNING
+Thread- 6 wait barrier timeout!|2017-07-27 14:12:08,333|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:12:08,365|thread-barrier-sync1.py|30|WARNING
+Thread-12 wait barrier timeout!|2017-07-27 14:12:11,324|thread-barrier-sync1.py|30|WARNING
+Thread-14 wait barrier timeout!|2017-07-27 14:12:11,324|thread-barrier-sync1.py|30|WARNING
+Thread-13 wait barrier timeout!|2017-07-27 14:12:12,296|thread-barrier-sync1.py|30|WARNING
+Thread- 9 wait barrier timeout!|2017-07-27 14:12:13,329|thread-barrier-sync1.py|30|WARNING
+Thread- 7 wait barrier timeout!|2017-07-27 14:12:14,299|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:12:18,320|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:12:22,362|thread-barrier-sync1.py|30|WARNING
+Thread-15 wait barrier timeout!|2017-07-27 14:15:49,265|thread-barrier-sync1.py|30|WARNING
+Thread-11 wait barrier timeout!|2017-07-27 14:15:49,265|thread-barrier-sync1.py|30|WARNING
+Thread- 5 wait barrier timeout!|2017-07-27 14:15:49,265|thread-barrier-sync1.py|30|WARNING
+Thread- 1 wait barrier timeout!|2017-07-27 14:15:49,265|thread-barrier-sync1.py|30|WARNING
+Thread- 4 wait barrier timeout!|2017-07-27 14:15:49,265|thread-barrier-sync1.py|30|WARNING
