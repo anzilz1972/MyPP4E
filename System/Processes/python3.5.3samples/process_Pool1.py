@@ -12,8 +12,7 @@
      1）使用进程池
      2）使用阻塞的进程池
      3）使用进程池并获取结果
-     4）使用多个进程池
-     5）使用logger输出信息：由于logging.logger是线程和进程安全的，因此能保证进程第一时间输出到stdout上，避免使用print函数带来的输出不同步问题
+     4）使用logger输出信息：由于logging.logger是线程和进程安全的，因此能保证进程第一时间输出到stdout上，避免使用print函数带来的输出不同步问题
   3、阻塞式进程池和非阻塞式进程池实验结果：参见本程序尾部
 """
 
@@ -44,7 +43,7 @@ def pool_blocked(r):
 
 
 if __name__ == '__main__':
-	numprocess = 12                                                 #总共要运行的进程数量
+	numprocess = 120                                                 #总共要运行的进程数量
 	pool_capacity = multiprocessing.cpu_count()                     #本机cpu数量(核) ，用来设定进程池容量pool_capacity
 	pool = multiprocessing.Pool(processes = pool_capacity)
 
@@ -57,7 +56,7 @@ if __name__ == '__main__':
 	pool.join()
     
     #获取进程执行结果并打印
-    #***在阻塞模式下会报异常
+    #***阻塞模式不返回结果，因此会引发异常
 	for res in result:
 		try:
 			logger.info(':::{}'.format(res.get()))                       
