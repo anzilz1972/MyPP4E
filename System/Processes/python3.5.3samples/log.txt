@@ -1,0 +1,12 @@
+res.get() error:AttributeError.|2017-07-28 11:54:40,966|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,966|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,967|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,967|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,967|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,968|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,968|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,968|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,969|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,969|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,969|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+res.get() error:AttributeError.|2017-07-28 11:54:40,969|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
