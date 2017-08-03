@@ -14,17 +14,32 @@
 """
 
 from multiprocessing import Process,Pipe
+import time
 
 
 def f(conn):
-	conn.send([42,None,'hello, python'])
-	conn.close()
+	for i in range(5):
+		conn.send([42,None,'hello, python'])
+	print('Child process exit.')
 
 if __name__ == '__main__':
 	parent_conn,child_conn = Pipe()
 	p = Process(target = f, args = (child_conn,))
 	p.start()
-	print(parent_conn.recv())
+
+	time.sleep(2)
+	while True:
+		#value = parent_conn.poll()
+		#print('poll result:',value)
+		if parent_conn.poll() == True:
+			msg = parent_conn.recv()
+			print(msg)
+		else:
+			break
+
 	p.join()
+	parent_conn.close()
+	child_conn.close()
+	print('Parent process exit.')
 	
 
