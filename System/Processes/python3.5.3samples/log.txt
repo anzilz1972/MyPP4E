@@ -10,3 +10,24 @@ res.get() error:AttributeError.|2017-07-28 11:54:40,969|E:\ProgrammingPython\MyP
 res.get() error:AttributeError.|2017-07-28 11:54:40,969|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
 res.get() error:AttributeError.|2017-07-28 11:54:40,969|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
 res.get() error:AttributeError.|2017-07-28 11:54:40,969|E:\ProgrammingPython\MyPP4E\System\Processes\python3.5.3samples\process_Pool1.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:42:46,157|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:43:45,670|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:43:50,671|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:43:55,671|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:44:00,672|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:44:05,673|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:44:10,673|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:44:15,673|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:44:20,674|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:44:25,674|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:44:30,675|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:48:44,076|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:48:49,078|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:48:54,079|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:48:59,079|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:49:04,080|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:49:09,080|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:49:14,080|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:49:19,081|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:49:24,081|process_exchange_pipe2.py|30|WARNING
+Parent Process is idle...|2017-08-04 10:49:29,082|process_exchange_pipe2.py|30|WARNING

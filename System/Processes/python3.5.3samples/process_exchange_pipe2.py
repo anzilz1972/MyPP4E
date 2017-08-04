@@ -18,7 +18,7 @@
 """
 
 import sys,random,time,multiprocessing
-from multiprocessing import Process,Pipe,Event,Value,Array
+from multiprocessing import Process,Pipe,Event
 
 sys.path.append('..\..\..\others\log')					#将log模块加入到系统目录中
 from MyPP4E_Log import Mypp4elog
