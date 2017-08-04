@@ -14,8 +14,7 @@
       3、模拟《血染雪山堡》，两个子进程实现双向会话，父进程通知会话结束
 """
 
-import sys,random,time
-import multiprocessing as mp
+import sys,random,time,multiprocessing
 from multiprocessing import Process,Pipe,Event,Value
 
 sys.path.append('..\..\..\others\log')					#将log模块加入到系统目录中
@@ -24,8 +23,9 @@ logger = Mypp4elog()									#get logger object
 
 
 
-def call(myname,yourname,conn,exitEvent):
-	logger.info('{} is running,PID: {}'.format(myname,mp.current_process().pid))
+def call(myname,yourname,conn,maxtimes):
+	pID = multiprocessing.current_process().pid
+	logger.info('{} is running,PID: {}'.format(myname,pID))
 
 	i = 1
 	while True:
@@ -36,7 +36,7 @@ def call(myname,yourname,conn,exitEvent):
 			else:
 				break
 
-		time.sleep(random.randint(0,3))
+		time.sleep(random.randint(0,5))
 
 		"""*************multiprocessing模块下的Event实现有bug，调用is_set()都会阻塞进程	
 		if exitEvent.is_set() == True:
@@ -46,28 +46,32 @@ def call(myname,yourname,conn,exitEvent):
 			logger.debug('{} detected exit flag is *NOT* set,circle:{}'.format(myname,i))
 		"""
 
-		###只好用multiprocessing模块的共享内存，实现进程间通信	
+		###用multiprocessing模块的共享内存，实现进程间通信，也发生了阻塞，奇怪
 		#if exitEvent.value == True:break
 
-		conn.send('{} called {}, {}'.format(myname,yourname,i))
-		i += 1
+		conn.send('{} call {}, {}'.format(myname,yourname,i))
+		if i+1 > maxtimes:
+			break
+		else:
+			i += 1
 
-
-	logger.info('{} will exit,PID: {}'.format(myname,mp.current_process().pid))
+	logger.info('{} will exit,PID: {}'.format(myname,pID))
 
 if __name__ == '__main__':
 	logger.info('Parent Process running...')
-	exitFlag = Value('b',False)
+
+	###exitFlag = Value('b',False)
 
 	broadsword,dannyboy = Pipe()
-	p1 = Process(target = call, args = ('BroadSword','Danny  Boy',broadsword,exitFlag))
-	p2 = Process(target = call, args = ('Danny  Boy','BroadSword',dannyboy,exitFlag))
+	p1 = Process(target = call, args = ('BroadSword','Danny  Boy',broadsword,100,))
+	p2 = Process(target = call, args = ('Danny  Boy','BroadSword',dannyboy,100,))
 	p1.start()
 	p2.start()
 
 	input('press any key to exit...\n')
 
-	exitFlag.value = True
+	###exitFlag.value = True
+
 	p1.join()
 	p2.join()
 	broadsword.close()
