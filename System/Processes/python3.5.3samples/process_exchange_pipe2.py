@@ -17,7 +17,7 @@
   	 时刻都可以进行读写操作，而不用担心管道阻塞
 """
 
-import sys,random,time,multiprocessing
+import os,sys,random,time,multiprocessing
 from multiprocessing import Process,Pipe,Event
 
 sys.path.append('..\..\..\others\log')					#将log模块加入到系统目录中
@@ -25,6 +25,7 @@ from MyPP4E_Log import Mypp4elog
 logger = Mypp4elog()									#get logger object
 
 
+#检查管道中是否有可读的数据；如果有，读出并打印
 def readtoEOF(conn,myName):
 	while True:
 		if conn.poll() == True:
@@ -35,17 +36,11 @@ def readtoEOF(conn,myName):
 
 
 def call(myname,yourname,conn,exitEvent):
-	pID = multiprocessing.current_process().pid
-	logger.info('{} is running,PID: {}'.format(myname,pID))
+	logger.info('{} is running,PID: {}'.format(myname,os.getpid()))
 	i = 1
 	while True:
 		###第一步：检查管道中是否有可读的数据；如果有，读出并打印
-		while True:
-			if conn.poll() == True:
-				words = conn.recv()
-				logger.info('{} recived: {}'.format(myname,words))
-			else:
-				break
+		readtoEOF(conn,myname)
 		###第二步：休眠随机时间
 		time.sleep(random.randint(0,3))
 		###第三步：探测父进程是否要求子进程退出，如果标志已经设置则退出
