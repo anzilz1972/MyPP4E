@@ -57,6 +57,8 @@ def mypp4e_log(rotateLog = False, stderrLog = True):
 	return logger
 
 
+
+
 """
    class Mypp4elog:提供更多的可选参数对logger进行初始化
 """
